@@ -1,5 +1,10 @@
 # ❤️ Heart Disease Prediction
 
+## 🌐 Live Demo
+
+🚀 **Try the application:**  
+[Heart Disease Prediction App](https://raja-singh-rajput-heart-disease.streamlit.app)
+
 A Machine Learning web application that predicts the **risk of heart disease** based on a patient's clinical and cardiac-related information.
 
 The project uses **Logistic Regression** as the machine learning model and **Streamlit** to provide an interactive web interface for making predictions.
